@@ -2,8 +2,18 @@
 import { useState } from "react"
 
 const ramalanList = [
-  "⚠️ LULU GENDODDDDDDDDDDDDD"
+  "🔮 Hari ini Lulu akan bilang 'terserah' tapi sebenarnya tidak terserah.",
+  "🌤️ Ramalan menunjukkan Lulu akan protes suhu ruangan minimal 3 kali hari ini.",
+  "🍟 Lulu hari ini: lapar tapi gak tau mau makan apa.",
+  "📱 Alam semesta melihat Lulu buka HP, tutup, buka lagi, tapi tetap bingung mau ngapain.",
+  "🪞 Hari ini Lulu akan ngaca, terus ngaca lagi, terus bilang 'ih biasa aja'. Bohong.",
+  "🛏️ Ramalan berkata Lulu akan rebahan, pindah posisi, lalu bilang 'kok gak enak ya' 5 kali.",
+  "🧃 Lulu hari ini haus, tapi minumnya nanti… nanti… nanti…",
+  "🎧 Bintang-bintang melihat Lulu denger lagu, skip, balik lagi ke lagu pertama.",
+  "🌬️ Angin berbisik: Lulu akan bilang 'panas' lalu 5 menit kemudian 'dingin'.",
+  "🧠 Hari ini Lulu akan masuk ruangan… lalu lupa mau ngapain."
 ]
+
 
 export default function Home() {
   const [ramalan, setRamalan] = useState("Klik tombol untuk melihat nasibmu hari ini 🔮")
