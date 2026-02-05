@@ -2,16 +2,7 @@
 import { useState } from "react"
 
 const ramalanList = [
-  "⚠️ Hari ini kamu akan melihat motor Supra lewat 3 kali. Itu pertanda rezeki tertunda.",
-  "💸 Dompetmu aman… kecuali kamu buka Shopee malam ini.",
-  "🍜 Mie instan akan menyelamatkan harimu.",
-  "📱 Notifikasi yang kamu tunggu tidak akan datang. Sabar ya.",
-  "🐈 Kucing yang kamu lihat hari ini membawa aura keberuntungan.",
-  "☕ Kopi pertama hari ini menentukan nasib cintamu.",
-  "🚿 Ide terbaikmu akan muncul saat lagi mandi.",
-  "🛵 Orang yang pakai jaket hijau hari ini adalah NPC penting dalam hidupmu.",
-  "🌧️ Hujan akan turun… atau tidak. Tapi perasaanmu tetap mendung.",
-  "📦 Paketmu akan datang saat kamu lagi di kamar mandi."
+  "⚠️ LULU GENDODDDDDDDDDDDDD"
 ]
 
 export default function Home() {
